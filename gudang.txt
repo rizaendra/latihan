@@ -1,0 +1,26 @@
+entiti :
+	1. Peralatan Non Medik :
+		   - Kode_Barang
+		   - Nama_Barang
+		   - Stok
+		   - Harga 
+
+	2. Peralatan Medik
+		   - Kode_Barang
+		   - Nama_Barang
+		   - Stok
+		   - Harga
+	3. Dapur
+		   - Kode_Barang
+		   - Nama_Barang
+		   - Stok
+		   - Harga
+
+user :
+	1. retail (supplier)
+	2. peg. kantor :
+			- Non Medik
+	3. perawat
+			- Medik & Non Medik
+	4. peg. dapur
+			- Dapur
